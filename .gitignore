@@ -1,0 +1,5 @@
+.env.sh
+.venv/
+.audit-venv/
+reports/
+__pycache__/
